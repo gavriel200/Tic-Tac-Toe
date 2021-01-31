@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="xTurn">X\'s Turn</string>
+    <string name="oTurn">O\'s Turn</string>
+    <string name="xWon">X HAS WON!</string>
+    <string name="oWon">O HAS WON!</string>
+    <string name="noWon">NO ONE WON</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="restart">Restart</string>
+</resources>
